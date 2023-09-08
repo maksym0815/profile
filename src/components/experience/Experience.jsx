@@ -46,10 +46,6 @@ const Experience = () => {
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>PHP</h4>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Laravel</h4>
             </article>
           </div>
@@ -72,19 +68,6 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Firebase</h4>
-            </article>
-          </div>
-        </div>
-        <div className="experience__frontend">
-          <h3>CMS</h3>
-          <div className="experience__content">
-          <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>WordPress</h4>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Shopify</h4>
             </article>
           </div>
         </div>

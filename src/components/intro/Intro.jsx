@@ -24,7 +24,7 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>6 year</small>
+              <small>4 year</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
@@ -33,8 +33,8 @@ const Intro = () => {
             </article>
           </div>
           <p style={{ textAlign: 'justify' }}>
-          &nbsp;&nbsp; As an experienced developer with a strong foundation in React, Laravel, WordPress, and Node, 
-          I take a comprehensive approach to web development and design. My proficiency in various technologies empowers me to create applications that are scalable, efficient, and secure, meeting the most rigorous client requirements. My vast experience in React, Laravel, and Node have granted me the aptitude to develop engaging and interactive web applications that deliver an immersive user experience. My enthusiasm for crafting technology solutions prompts me to have confidence in my ability to make a worthwhile contribution to any development project.
+          &nbsp;&nbsp; As a highly skilled Full stack developer with 4 years, I've worked on a lot of multiple challenging projects, including requirements gathering, development and maintenance.
+Efficiency and quality are at the core of my work.
 <br/><br/>
 Why me?
 <br/>
