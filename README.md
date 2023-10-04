@@ -1,13 +1,10 @@
 # React JS Portfolio Website
 
-[🔗Live Demo🔗](https://rtaghizadev.vercel.app/)
+[🔗Live Demo🔗](https://maksym0815.netlify.app/)
 
 ![Protfolio Website](src/assets/Portfolio%20preview.png)
 
-<div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Maksym-Taghizada/My-portfolio?color=yellow)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-</div>
 
 <table align="center">
     <thead align="center">
@@ -23,11 +20,6 @@
     <tbody>
          <tr>
             <td><a href="https://github.com/maksym0815/My-portfolio"</a>Project</td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Maksym-Taghizada/My-portfolio?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/Maksym-Taghizada/My-portfolio?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Maksym-Taghizada/My-portfolio?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Maksym-Taghizada/My-portfolio?style=flat&logo=github"/></td>
-           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Maksym-Taghizada/My-portfolio?style=flat&color=critical&logo=github"/></td>
         </tr>
     </tbody>
 </table>
